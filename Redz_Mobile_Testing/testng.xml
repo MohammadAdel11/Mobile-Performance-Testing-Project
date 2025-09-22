@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="QABootcamp_Maven.Redz_Mobile_Testing.LogInTest" />
+			<class name="QABootcamp_Maven.Redz_Mobile_Testing.Like_Test" />
+			<class name="QABootcamp_Maven.Redz_Mobile_Testing.Comment_Test" />
+			<class name="QABootcamp_Maven.Redz_Mobile_Testing.FollowUnfollowTest" />
+			<class name="QABootcamp_Maven.Redz_Mobile_Testing.ChangeLocationTest" />
+			<class name="QABootcamp_Maven.Redz_Mobile_Testing.SendMessageTest" />
+			<class name="QABootcamp_Maven.Redz_Mobile_Testing.LogOutTest" />
+			
+		</classes>
+	</test>
+</suite>

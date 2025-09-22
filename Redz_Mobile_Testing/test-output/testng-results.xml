@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-22T15:20:23 EEST" name="Default suite" finished-at="2025-09-22T15:20:43 EEST" duration-ms="20265">
+    <groups>
+    </groups>
+    <test started-at="2025-09-22T15:20:23 EEST" name="Default test" finished-at="2025-09-22T15:20:43 EEST" duration-ms="20265">
+      <class name="QABootcamp_Maven.Redz_Mobile_Testing.LogOutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:QABootcamp_Maven.Redz_Mobile_Testing.LogOutTest@5e8f9e2d]" started-at="2025-09-22T15:20:23 EEST" name="setUp" finished-at="2025-09-22T15:20:32 EEST" duration-ms="8752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:QABootcamp_Maven.Redz_Mobile_Testing.LogOutTest@5e8f9e2d]" started-at="2025-09-22T15:20:32 EEST" name="setUpPage" finished-at="2025-09-22T15:20:32 EEST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="checkLogOut()[pri:0, instance:QABootcamp_Maven.Redz_Mobile_Testing.LogOutTest@5e8f9e2d]" started-at="2025-09-22T15:20:32 EEST" name="checkLogOut" finished-at="2025-09-22T15:20:43 EEST" duration-ms="10955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogOut -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:QABootcamp_Maven.Redz_Mobile_Testing.LogOutTest@5e8f9e2d]" started-at="2025-09-22T15:20:43 EEST" name="TearDown" finished-at="2025-09-22T15:20:43 EEST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- QABootcamp_Maven.Redz_Mobile_Testing.LogOutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

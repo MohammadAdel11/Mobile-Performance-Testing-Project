@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="QABootcamp_Maven.Redz_Mobile_Testing.SendMessageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUpPage"/>
+          <include name="testSendMessageValid"/>
+          <include name="TearDown"/>
+          <include name="testSendEmptyMessage"/>
+        </methods>
+      </class> <!-- QABootcamp_Maven.Redz_Mobile_Testing.SendMessageTest -->
+      <class name="QABootcamp_Maven.Redz_Mobile_Testing.Comment_Test">
+        <methods>
+          <include name="setUpPage"/>
+          <include name="setUp"/>
+          <include name="checkUnLikeComment"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- QABootcamp_Maven.Redz_Mobile_Testing.Comment_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
